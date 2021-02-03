@@ -6,7 +6,7 @@ title: Wenqiang Fang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. in Solid Mechanics at Brown University
+role: Ph.D. in Solid Mechanics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -68,4 +68,4 @@ highlight_name: false
 I am a PhD candidate in Mechanical Engineering seeking a full-time Research engineer for Spring 2021.
 I have strong background in computational mechanics and broad interest in engineering design and optimization. I am a dependable and organized team player with the ability to communicate effectively and efficiently. I am also a quick learner who is proficient in programming and numerical simulation softwares.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
