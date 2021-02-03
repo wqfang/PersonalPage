@@ -49,13 +49,14 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/wenqiang-fang-a2a74a58/
+- icon: cv
+  icon_pack: ai
+  link: media/resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "Wenqiang_Fang@brown.edu"
@@ -64,7 +65,7 @@ email: "Wenqiang_Fang@brown.edu"
 highlight_name: false
 ---
 
-I am a PhD candidate in Mechanical Engineering seeking a full-time Research engineer for Spring 2021. 
+I am a PhD candidate in Mechanical Engineering seeking a full-time Research engineer for Spring 2021.
 I have strong background in computational mechanics and broad interest in engineering design and optimization. I am a dependable and organized team player with the ability to communicate effectively and efficiently. I am also a quick learner who is proficient in programming and numerical simulation softwares.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
